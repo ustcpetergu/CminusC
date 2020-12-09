@@ -22,7 +22,7 @@ make
 (output 15)
 ```
 
-For the original project, see [CompilersHomework](https://github.com/ustcpetergu/CompilersHomework). 
+For the original project, see [CompilersHomework](https://github.com/ustcpetergu/CompilersHomework) (Which is now private. Email me if you need). 
 
 I do not own all these code: some are by my teammates and the teaching assistants. See the [CompilersHomework](https://github.com/ustcpetergu/CompilersHomework) repository for detail. 
 
